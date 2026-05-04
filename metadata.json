@@ -1,0 +1,6 @@
+{
+  "name": "N.O.R.A.",
+  "description": "Networked Operational Research Assistant - A high-tech sci-fi AI system controller.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["System Diagnostics", "Real-Time Data Integration", "Advanced Development Support", "Multi-language Protocol"]
+}
